@@ -1,6 +1,7 @@
 **SN3 API - Demo**
 
-***Overview***
+**Overview**
+
 StaffingNation is a contingent workforce platform that provides end-to-end HR solutions for global organizations. 
 
 It offers a suite of features that include full-cycle onboarding, paperless onboarding, KPI dashboard and financial reporting, talent pools, and more.
