@@ -9,10 +9,12 @@ StaffingNation's REST API is designed to provide programmatic access to its plat
 The REST API is part of the StaffingNation ecosystem and is intended to provide a seamless integreation between StaffingNation and other software systems used by organizations ♻️
 
 
+
+
 **Getting Stated**
 
 Follow these steps to get started with the SN3 API - Demo:
 
-1. Download and install Postman
-2. Fork the repository
-3. Download and import the .json file into Postman
+1. Download and install Postman ⬇️
+2. Fork the repository 🍴
+3. Download and import the .json file into Postman 🚀
