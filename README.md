@@ -1,4 +1,4 @@
-**Overview**
+<ins>**Overview**</ins>
 
 StaffingNation is a contingent workforce platform that provides end-to-end HR solutions for global organizations 🌎
 
@@ -11,7 +11,7 @@ The REST API is part of the StaffingNation ecosystem and is intended to provide 
 
 
 
-**Getting Stated**
+<ins>**Getting Stated**</ins>
 
 Follow these steps to get started with the SN3 API - Demo:
 
